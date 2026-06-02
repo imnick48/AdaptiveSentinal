@@ -1,0 +1,13 @@
+{
+  "threshold": 0.4,
+  "mode": "adaptive",
+  "feature_dimensions": 43,
+  "defenses": ["PerplexityFilter", "SemanticDrift", "StructuralPattern", "RephrasingStability"],
+  "dataset_path": "data/realworld_jailbreak_dataset.json",
+  "output_dir": "results",
+  "use_real_embeddings": true,
+  "use_real_perplexity": true,
+  "use_real_paraphrase": true,
+  "use_learned_router": false,
+  "use_gradient_boosting": false
+}
