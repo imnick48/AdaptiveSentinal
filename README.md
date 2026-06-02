@@ -130,18 +130,6 @@ The implementation reports:
 - ROC curves
 - **Sample sizes** for all claims
 
-## Citation
-
-If you use this implementation, please cite the original paper and note that this is a corrected implementation:
-
-```bibtex
-@article{adaptive_sentinel_2026,
-  title={Adaptive Sentinel: A Dynamic Ensemble Defense Framework for LLM Jailbreak Detection},
-  author={Sagnick Das},
-  year={2026}
-}
-```
-
 ## License
 
 MIT License - Released as open-source for community contributions and real-world deployment evaluations.
